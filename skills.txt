@@ -1,0 +1,17 @@
+Theory of testing
+HTTP methods
+JSON, XML
+Postman
+Logs
+Charles and Fiddler
+Dev Tools
+VPN
+Mobile testing
+Android studio
+Linux terminal
+Bash scripting
+SQL
+Postgres
+Redis
+Jmeter
+Scrum
